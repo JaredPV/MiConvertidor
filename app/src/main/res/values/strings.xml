@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MiConvertidor</string>
+    <string name="btn_temperatura">Temperatura</string>
+    <string name="btn_masa">Masa</string>
+    <string name="btn_longitud">Longitud</string>
+    <string name="btn_volumen">Volumen</string>
+</resources>
